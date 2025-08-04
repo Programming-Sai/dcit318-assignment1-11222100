@@ -15,7 +15,7 @@ This repository contains three C# console applications developed as part of my D
 ---
 
 > **Note:**  
-> Due to login issues with my student GitHub account (`studentID`), I created this repository under my personal GitHub account.  
+> Due to login issues with my student GitHub account, I created this repository under my personal GitHub account.  
 > All assignment commits are still authored using my **student account email** to meet submission requirements.  
 > You can verify this by checking the commit history in the repository.
 
